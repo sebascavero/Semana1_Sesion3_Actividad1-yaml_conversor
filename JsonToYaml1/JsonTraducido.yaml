@@ -18,12 +18,12 @@
   longitude: 117.525558
   tags: ['deserunt', "duis", "sunt", "et", "dolor", "ad", "anim"]
   friends:
-  - id: 0
-    name: "Leona Moody"
-  - id: 1
-    name: "Tammy Burns"
-  - id: 2
-    name: "Jewel Henderson"
+    - id: 0
+      name: "Leona Moody"
+    - id: 1
+      name: "Tammy Burns"
+    - id: 2
+      name: "Jewel Henderson"
 
 
 - id: "670091eb52780a22dc4f815d"
@@ -54,14 +54,12 @@
     - in
 
   friends:
-  - id: 0
-    name: "Darcy Koch"
+    - id: 0
+      name: "Darcy Koch"
+    - id: 1
+      name: "Carmella Davenport"
+    - id: 2
+      name: "Dotson Ingram"
 
-  - id: 1
-    name: "Carmella Davenport"
-
-  - id: 2
-    name: "Dotson Ingram"
-
-  greeting: "Hello, Addie Wynn! You have 4 unread messages.",
+  greeting: "Hello, Addie Wynn! You have 4 unread messages."
   favoriteFruit: "banana"
