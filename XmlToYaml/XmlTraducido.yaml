@@ -1,5 +1,6 @@
 personas:
-  - id: 1
+  - Persona:
+    id: 1
     nombre: "Juan Pérez"
     edad: 30
     profesion: "Ingeniero de Software"
@@ -13,7 +14,8 @@ personas:
       - Jugar ajedrez
       - Senderismo
 
-  - id: 2
+  - Persona:
+    id: 2
     nombre: "Maria López"
     edad: 25
     profesion: "Diseñadora Gráfica"
@@ -25,14 +27,16 @@ personas:
     hobbies: ['Pintura al óleo', 'Tocar el piano', 'Fotografía']
 
 animales:
-  - id: 1
+  - animal:
+    id: 1
     especie: "Perro"
     nombre: "Max"
     raza: "Labrador Retriever"
     edad: 5
     propietario: "Juan Pérez"
 
-  - id: 2
+  - animal:  
+    id: 2
     especie: "Gato"
     nombre: "Luna"
     raza: "Persa"
@@ -40,7 +44,8 @@ animales:
     propietario: "Maria López"
 
 cursos:
-  - id: 101
+  - curso:
+    id: 101
     nombre: "Desarrollo Web"
     duracion: "6 meses"
     descripcion: |
@@ -50,8 +55,8 @@ cursos:
       nombre: "Carlos García"
       experiencia: "10 años"
 
-
-  - id: 102
+  - curso:
+    id: 102
     nombre: "Ilustración Digital"
     duracion: "3 meses"
     

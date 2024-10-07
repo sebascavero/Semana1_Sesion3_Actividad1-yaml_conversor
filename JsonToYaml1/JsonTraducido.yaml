@@ -19,10 +19,10 @@
   tags: ['deserunt', "duis", "sunt", "et", "dolor", "ad", "anim"]
   friends:
   - id: 0
-    name": "Leona Moody"
-  - id": 1
+    name: "Leona Moody"
+  - id: 1
     name: "Tammy Burns"
-  - id": 2
+  - id: 2
     name: "Jewel Henderson"
 
 
@@ -54,14 +54,14 @@
     - in
 
   friends:
-    - id: 0
-      name: "Darcy Koch"
+  - id: 0
+    name: "Darcy Koch"
 
-    - id: 1
-      name: "Carmella Davenport"
+  - id: 1
+    name: "Carmella Davenport"
 
-    - id: 2
-      name: "Dotson Ingram"
+  - id: 2
+    name: "Dotson Ingram"
 
   greeting: "Hello, Addie Wynn! You have 4 unread messages.",
   favoriteFruit: "banana"
