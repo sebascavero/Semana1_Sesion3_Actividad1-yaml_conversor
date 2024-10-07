@@ -1,0 +1,63 @@
+personas:
+  - id: 1
+    nombre: "Juan Pérez"
+    edad: 30
+    profesion: "Ingeniero de Software"
+    direccion:
+      calle: "Av. Siempre Viva"
+      numero: 742
+      ciudad: "Springfield"
+
+    hobbies:
+      - Leer ciencia ficción
+      - Jugar ajedrez
+      - Senderismo
+
+  - id: 2
+    nombre: "Maria López"
+    edad: 25
+    profesion: "Diseñadora Gráfica"
+    direccion:
+      calle: "Calle Falsa"
+      numero: 123
+      ciudad: "Shelbyville"
+
+    hobbies: ['Pintura al óleo', 'Tocar el piano', 'Fotografía']
+
+animales:
+  - id: 1
+    especie: "Perro"
+    nombre: "Max"
+    raza: "Labrador Retriever"
+    edad: 5
+    propietario: "Juan Pérez"
+
+  - id: 2
+    especie: "Gato"
+    nombre: "Luna"
+    raza: "Persa"
+    edad: 3
+    propietario: "Maria López"
+
+cursos:
+  - id: 101
+    nombre: "Desarrollo Web"
+    duracion: "6 meses"
+    descripcion: |
+      Curso para aprender HTML, CSS, JavaScript y frameworks modernos
+
+    instructor:
+      nombre: "Carlos García"
+      experiencia: "10 años"
+
+
+  - id: 102
+    nombre: "Ilustración Digital"
+    duracion: "3 meses"
+    
+    descripcion: |
+      Curso de técnicas avanzadas en ilustración utilizando software digital
+    
+    instructor:
+      nombre: "Laura Sánchez"
+      experiencia: "8 años"

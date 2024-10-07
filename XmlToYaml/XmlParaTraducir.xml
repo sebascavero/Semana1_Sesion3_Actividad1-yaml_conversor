@@ -1,0 +1,85 @@
+<database>
+    <personas>
+        <persona id="1">
+            <nombre>Juan Pérez</nombre>
+            <edad>30</edad>
+            <profesion>Ingeniero de Software</profesion>
+            <direccion>
+                <calle>Av. Siempre Viva</calle>
+                <numero>742</numero>
+                <ciudad>Springfield</ciudad>
+            </direccion>
+            <hobbies>
+                <hobby>Leer ciencia ficción</hobby>
+                <hobby>Jugar ajedrez</hobby>
+                <hobby>Senderismo</hobby>
+            </hobbies>
+        </persona>
+        <persona id="2">
+            <nombre>Maria López</nombre>
+            <edad>25</edad>
+            <profesion>Diseñadora Gráfica</profesion>
+            <direccion>
+                <calle>Calle Falsa</calle>
+                <numero>123</numero>
+                <ciudad>Shelbyville</ciudad>
+            </direccion>
+            <hobbies>
+                <hobby>Pintura al óleo</hobby>
+                <hobby>Tocar el piano</hobby>
+                <hobby>Fotografía</hobby>
+            </hobbies>
+        </persona>
+    </personas>
+    
+    <animales>
+        <animal id="1">
+            <especie>Perro</especie>
+            <nombre>Max</nombre>
+            <raza>Labrador Retriever</raza>
+            <edad>5</edad>
+            <propietario>Juan Pérez</propietario>
+        </animal>
+        <animal id="2">
+            <especie>Gato</especie>
+            <nombre>Luna</nombre>
+            <raza>Persa</raza>
+            <edad>3</edad>
+            <propietario>Maria López</propietario>
+        </animal>
+    </animales>
+
+    <cursos>
+        <curso id="101">
+            <nombre>Desarrollo Web</nombre>
+            <duracion>6 meses</duracion>
+            <descripcion>Curso para aprender HTML, CSS, JavaScript y frameworks modernos</descripcion>
+            <instructor>
+                <nombre>Carlos García</nombre>
+                <experiencia>10 años</experiencia>
+            </instructor>
+        </curso>
+        <curso id="102">
+            <nombre>Ilustración Digital</nombre>
+            <duracion>3 meses</duracion>
+            <descripcion>Curso de técnicas avanzadas en ilustración utilizando software digital</descripcion>
+            <instructor>
+                <nombre>Laura Sánchez</nombre>
+                <experiencia>8 años</experiencia>
+            </instructor>
+        </curso>
+    </cursos>
+
+    <hobbies>
+        <hobby id="1">
+            <nombre>Fotografía</nombre>
+            <descripcion>El arte de capturar imágenes a través de una cámara y jugar con la luz y el enfoque.</descripcion>
+            <frecuencia>Semanal</frecuencia>
+        </hobby>
+        <hobby id="2">
+            <nombre>Escalada</nombre>
+            <descripcion>Deporte extremo que consiste en ascender superficies verticales utilizando fuerza y técnica.</descripcion>
+            <frecuencia>Mensual</frecuencia>
+        </hobby>
+    </hobbies>
+</database>
